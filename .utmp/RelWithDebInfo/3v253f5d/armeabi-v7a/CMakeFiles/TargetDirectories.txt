@@ -1,0 +1,5 @@
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

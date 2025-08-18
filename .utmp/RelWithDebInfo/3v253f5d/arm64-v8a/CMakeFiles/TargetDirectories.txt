@@ -1,0 +1,5 @@
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/blanco/Desktop/ElViaje/.utmp/RelWithDebInfo/3v253f5d/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

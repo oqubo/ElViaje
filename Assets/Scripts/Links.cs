@@ -6,7 +6,7 @@ public class Links : MonoBehaviour
 {
     public void abrirUrlOqubo()
     {
-        Application.OpenURL("http://www.oqubo.es");
+        Application.OpenURL("https://oqubo.es");
     }
 
 }
