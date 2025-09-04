@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 808e4492450f3f84c859e099524ef107
   - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: 66907226095184a279f54ffe9a31ef6e
+  - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 13c4b9a25e714484db0951847e444521
   - enabled: 1
@@ -22,3 +25,4 @@ EditorBuildSettings:
     guid: 0fc259bae9036411d94d7a958bbc1098
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 972a944b6dcc2436c837344291b83f8e, type: 2}
+  m_UseUCBPForAssetBundles: 0
